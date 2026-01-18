@@ -5,6 +5,7 @@ Additional tools will be uploaded over time to expand the functionality of this 
 
 ---
 ## Repository Structure
+```text
 repo-root/
 ├── reverse-shell-generator/
 │   ├── src/
@@ -14,6 +15,7 @@ repo-root/
 │   ├── Colasoft-Packet-Builder/
 ├── LICENSE
 └── README.md
+```
 
 ---
 # Disclaimer
