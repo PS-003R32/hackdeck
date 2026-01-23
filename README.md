@@ -17,7 +17,7 @@ repo-root/
 │   ├── CAIDO/
 ├── Spyware/
 │   ├── General Spyware/
-│       ├── Spyrix/
+│       └── Spyrix/
 ├── LICENSE
 └── README.md
 ```
