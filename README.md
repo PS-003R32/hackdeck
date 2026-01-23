@@ -15,6 +15,9 @@ repo-root/
 │   ├── Colasoft-Packet-Builder/
 ├── Session-Hijacking/
 │   ├── CAIDO/
+├── Spyware/
+│   ├── General Spyware/
+│       ├── Spyrix/
 ├── LICENSE
 └── README.md
 ```
