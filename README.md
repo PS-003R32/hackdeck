@@ -20,7 +20,10 @@ repo-root/
 │       └── Spyrix/
 ├── Steganography Tools
 ├── Vulnerability Assessment Tools
+│   ├── Nessus/
+│   ├── Sniper/
 ├── Tools to Extract Password Hashes
+│   ├── pwdump7/
 ├── LICENSE
 └── README.md
 ```
