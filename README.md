@@ -18,7 +18,9 @@ repo-root/
 ├── Spyware/
 │   ├── General Spyware/
 │       └── Spyrix/
+├── Steganography Tools
 ├── Vulnerability Assessment Tools
+├── Tools to Extract Password Hashes
 ├── LICENSE
 └── README.md
 ```
